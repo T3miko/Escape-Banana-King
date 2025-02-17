@@ -1,7 +1,7 @@
 # Escape-Banana-King
 Escape Banana King is a game created on Construct 3d Editor - https://editor.construct.net/
 
-Download cp3 file here: https://drive.google.com/file/d/1nJM8tZdneTVbamKoMxCMxHVnUUdqlfdQ/view?usp=drive_link
+Download c3p file here: https://drive.google.com/file/d/1nJM8tZdneTVbamKoMxCMxHVnUUdqlfdQ/view?usp=drive_link
 
 Attributions listed below:
 
