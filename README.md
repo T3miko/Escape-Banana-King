@@ -1,5 +1,5 @@
 # Escape-Banana-King
-Escape Banana King is a game created on Construct 3d Editor - https://editor.construct.net/
+Escape Banana King is a game created by Aiko Ileleji (Pseudonym: Temiko) on Construct 3d Editor - https://editor.construct.net/
 
 Download c3p file here: https://drive.google.com/file/d/1nJM8tZdneTVbamKoMxCMxHVnUUdqlfdQ/view?usp=drive_link
 
